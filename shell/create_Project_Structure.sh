@@ -1,0 +1,9 @@
+
+mkdir 01_REQUIREMENT
+mkdir 02_DESIN
+mkdir 03_CODING
+mkdir 04_TEST
+mkdir 05_DATA
+mkdir 06_CONFIGURATION
+mkdir 07_HISTORY
+mkdir 08_DOCUMENT
